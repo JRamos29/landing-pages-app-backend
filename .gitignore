@@ -76,6 +76,7 @@ $RECYCLE.BIN/
 # Misc.
 ############################
 
+pages_data.json
 mongodb.txt
 *#
 ssl
